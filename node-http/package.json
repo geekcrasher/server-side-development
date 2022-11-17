@@ -1,0 +1,12 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "\"Example of Node HTTP module\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Paulo Lopez",
+  "license": "ISC"
+}
